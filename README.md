@@ -5,14 +5,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="250" height="250">
 </picture>
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- <a href="https://www.facebook.com/minh832"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<h3 align="left">Connect with me:</h3> 
+<a href="https://www.facebook.com/minh832"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+
