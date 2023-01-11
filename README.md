@@ -1,8 +1,10 @@
 ### Hi there 👋
-
-<!--
-**daoxuanminh/daoxuanminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+daoxuanminh/daoxuanminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="MY-DEFAULT-IMAGE" src="https://scontent.fhan4-3.fna.fbcdn.net/v/t39.30808-6/300358357_1283936515748990_822242070449129462_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lRfArp6_ewkAX_1yWwF&_nc_ht=scontent.fhan4-3.fna&oh=00_AfB-VksNriGhpi0PhgcN9JGJNueJ8JL7kbb-J3ZIjeOexA&oe=63C3A879">
+</picture>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
